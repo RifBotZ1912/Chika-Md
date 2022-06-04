@@ -24,12 +24,12 @@ global.APIKeys = {
 //—————「 Setting Owner 」—————//
 global.owner = ['62895347198105'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['62895347198105'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '62895347198105' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '62895347198105.6285939243969' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Arif' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'RifBotZ-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RifBotZ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'BagasZ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'BagasBotZ-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'BagasZ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'aldashakila23@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© RifBotZ-Md ?' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Arif' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© BagasZ-Md ?' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'BagasZ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
